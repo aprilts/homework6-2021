@@ -99,7 +99,7 @@ header{
 }
 
 /*Keyframes for animation*/
-@-webkit-keyframes logo_grow{
+@keyframes logo_grow{
   /*Your code here.*/
   from {
     width: 25px;
